@@ -1,0 +1,11 @@
+button, input {
+  border: solid 1px #ccc;
+  padding: 10px;
+  margin-right: 4px;
+}
+
+.viesti {
+  margin-top: 10px;
+  border: solid 1px #ccc;
+  padding: 10px;
+}
