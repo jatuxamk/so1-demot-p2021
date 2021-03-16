@@ -22,8 +22,8 @@ function App() {
       <input type="text" placeholder="Anna nimesi..." onChange={ (e) => { setNimi(e.target.value) } } />
 
       <button onClick={sanoHeippa}>Sano heippa</button>
-    
-      { (tervehdys) 
+
+     { (tervehdys) 
         ? <div className="viesti">
             {tervehdys}
           </div> 
