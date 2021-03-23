@@ -23,19 +23,33 @@ function App() {
 
         <Yhteenveto yhteensa={yhteensa}/>
 
-        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>Henkilöauto</Laskurinappi>  
+        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>
+          Henkilöauto
+        </Laskurinappi>  
 
-        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>Pakettiauto</Laskurinappi>
+        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>
+          Pakettiauto
+        </Laskurinappi>
 
-        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>Linja-auto</Laskurinappi>
+        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>
+          Linja-auto
+        </Laskurinappi>
 
-        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>Kuorma-auto tai rekka</Laskurinappi>
+        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>
+          Kuorma-auto tai rekka
+        </Laskurinappi>
 
-        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>Polkupyörä</Laskurinappi>
+        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>
+          Polkupyörä
+        </Laskurinappi>
 
-        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>Moottoripyörä</Laskurinappi>
+        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>
+          Moottoripyörä
+        </Laskurinappi>
 
-        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>Muu kulkuneuvo</Laskurinappi>
+        <Laskurinappi lisaaYhteissummaan={lisaaYhteissummaan}>
+          Muu kulkuneuvo
+        </Laskurinappi>
 
     </Sivu>
   );
